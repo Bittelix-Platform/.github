@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Bittelix+Platform" alt="Bittelix Banner" width="100%">
-</p>
+<img src="https://github.com/Bittelix-Platform/.github/blob/main/ChatGPT%20Image%20Dec%2017%2C%202025%2C%2003_31_11%20PM.png?raw=true" alt="Bittelix Banner" width="100%">
 
 <h1 align="center">Bittelix Platform</h1>
 <p align="center">

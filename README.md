@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Bittelix-Platform/.github/main/ChatGPT%20Image%20Dec%2017%2C%202025%2C%2003_31_11%20PM.png" alt="Bittelix Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Bittelix-Platform/.github/main/bittext-lib-banner.png" alt="Bittelix Banner" width="100%">
 <h1 align="center">Bittelix Platform</h1>
 <p align="center">
   <strong>Next-Gen AI-Powered Trading Ecosystem for Crypto & Forex</strong><br>

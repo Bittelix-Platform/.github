@@ -9,7 +9,7 @@
   <strong>Powered by the world's most powerful financial AI engine</strong><br>
   <i>Combining deep learning, real-time market intelligence, and institutional-grade execution</i>
 </p>
-
+ 
 <p align="center">
   <a href="https://www.bittelix.com">
     <img src="https://img.shields.io/badge/Website-bittelix.com-blue" alt="Website">
